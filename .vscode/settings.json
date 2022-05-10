@@ -1,0 +1,23 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.excludeLanguages": {
+      "javascript": "javascriptreact"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "2077",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+      "*": true,
+      "yaml": false,
+      "plaintext": false,
+      "markdown": false,
+      "css": false,
+      "javascript": false
+  },
+  "files.autoSave": "afterDelay",
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false
+}

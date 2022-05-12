@@ -22,4 +22,8 @@
     "bracket-pair-colorizer-2.depreciation-notice": true,
     "editor.fontFamily": "'Victor Mono'",
     "editor.fontLigatures": true,
+    
+        "editor.bracketPairColorization.enabled": true,
+        "editor.guides.bracketPairs":"active"
+    
 }

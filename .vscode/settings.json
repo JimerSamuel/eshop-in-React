@@ -9,11 +9,11 @@
     "editor.inlineSuggest.enabled": true,
     "github.copilot.enable": {
         "*": true,
-        "yaml": false,
-        "plaintext": false,
-        "markdown": false,
-        "css": false,
-        "javascript": false
+        "yaml": true,
+        "plaintext": true,
+        "markdown": true,
+        "css": true,
+        "javascript": true
     },
     "files.autoSave": "afterDelay",
     "[javascript]": {

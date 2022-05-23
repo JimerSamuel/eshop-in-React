@@ -4,8 +4,13 @@ import ProductList from '@containers/ProductList';
 
 const Home = () => {
   return (
-    <Header />,
-    <ProductList />
+    <head>
+    </head>,
+    <body>
+    <Header />
+      <ProductList />
+    </body>
+  
   );
 }
 

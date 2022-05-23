@@ -7,7 +7,7 @@ const useGetProducts = (API) => {
 	useEffect(async () => {
 		const response = await axios(API);
 		setProducts(response.data);
-	}, [])
+	}, []);
   return products;
 };
 
